@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "b8828b83fcd9f7cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b04233a8c64d5870",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93ffaa628a2f4073",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61e1484af539c3ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "27b63a65272e6ff4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57dfee30abfe8ec1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0f16fb2d1e4d984d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f8320efa23dee84d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 620.59375
+  },
+  "right": {
+    "id": "0f929f8aecaa17a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe7510e7f80bcff8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7be193ffefd1173e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9476f0f6ce8132be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a5195cf7239b067a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7a87831c00d55d59",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "971b6ad781e13347",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "93ffaa628a2f4073",
+  "lastOpenFiles": [
+    "ingested/clippings/Your AI Chief of Staff.md",
+    "ingested/clippings/This 1 Claude Skill fully replaces your Higgsfield subscription (FULL BREAKDOWN).md",
+    "ingested/clippings/vibe-coding-2.0-18-rules.md",
+    "ingested/clippings/openclaw-multi-agent-orchestration.md",
+    "ingested/clippings/7-claude-sub-agents-that-replace-a-200k-team.md",
+    "ingested/clippings/Use Claude Code Better Than 99% of People (Full System).md",
+    "ingested/notes/vibe-coding-ai-instructions.md",
+    "ingested/documentation/Developer Tools MCP  Developer Documentation.md",
+    "Knowledge/AI & Agents/AI & Agents - Home.md",
+    "ingested/clippings/1.1 Les Fondations.md",
+    "ingested/clippings/2.5 years of app scaling, distribution, and marketing sauce in 2 mins (Part 1).md",
+    "ingested/clippings/How to build a GTM machine from 0 to $10k MRR.md",
+    "ingested/clippings/how to actually sell a product (full guide).md",
+    "ingested/clippings/STOP COLD CALLING! This AI Agent lands clients fast.md",
+    "ingested/clippings/12 million leads, 15,000+ meetings - here's my brutally honest 2026 LinkedIn outreach holy grail.md",
+    "ingested/notes/HOW TO GET YOUR FIRST 100 PAYING USERS WITH ZERO AD SPEND",
+    "Knowledge/Growth & Sales/Growth & Sales - Home.md",
+    "Knowledge/AI & Agents/Dex - AI Chief of Staff.md",
+    "Knowledge/Growth & Sales/E-commerce - Foundations.md",
+    "Knowledge/AI & Agents/Meta Developer Tools MCP.md",
+    "ingested/clippings/claude-seo-100k-month-playbook.md",
+    "ingested/clippings/The Guide to Master Claude for SEO.md",
+    "ingested/clippings/The 9 pages a SaaS needs for SEO (automated with Claude).md",
+    "ingested/clippings/6-Step Claude SEO Hack to Rank Without Backlinks in 24 Hours.md",
+    "ingested/clippings/7-Step Claude Information Gain Playbook to Get Cited by Google AI Overviews.md",
+    "ingested/clippings/AI SEO for Beginners (Full Playbook!).md",
+    "Knowledge/Growth & Sales/Growth - First Users Without Ad Spend.md",
+    "Knowledge/Personal Effectiveness",
+    "Knowledge/AI & Agents",
+    "Knowledge/Growth & Sales",
+    "Knowledge/SEO",
+    "Knowledge",
+    "raw/HOW TO GET YOUR FIRST 100 PAYING USERS WITH ZERO AD SPEND",
+    "templates",
+    "ingested/papers",
+    "ingested/notes"
+  ]
+}
