@@ -39,6 +39,7 @@ Six skills cover the full lifecycle. You invoke them by name in any chat with fi
 | [[Overview]] | Living synthesis of what you currently know across all domains. The vault-level crystallize target. Start here for orientation. |
 | [[index]] | Catalogue of all wiki pages. Maintained automatically by wiki-ingest and wiki-integrate. Use for lookup. |
 | [[log]] | Append-only audit trail of all skill operations. New entries at the top. |
+| [[README]] | Repo front page for GitHub: what this wiki is, domains, folder layout, workflow. |
 | [[wiki-help|Wiki Help]] | Field conventions, write discipline, naming rules, page types, tips. Read this if you're not sure how something works. |
 
 ---
@@ -70,4 +71,4 @@ The wiki is the memory that persists when chat history does not.
 
 ## Related
 
-[[Overview]] | [[index]] | [[log]] | [[wiki-help|Wiki Help]]
+[[Overview]] | [[index]] | [[log]] | [[README]] | [[wiki-help|Wiki Help]]

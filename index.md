@@ -1,11 +1,11 @@
 ---
 title: index
-version: 1.1
+version: 1.2
 date: 2026-09-22
-updated: 2026-09-22
+updated: 2026-09-23
 status: active
 description: "Catalogue of all wiki pages."
-changes: "v1.1 - Added 21 pages from first ingest"
+changes: "v1.2 - Added README to navigation"
 page_type: index
 ---
 
@@ -22,6 +22,7 @@ page_type: index
 
 - [[Home]]: Navigation hub linking all major sections and describing the skill workflow. `Home.md`
 - [[Overview]]: Living synthesis of current knowledge across all domains. Start here for orientation. `Overview.md`
+- [[README]]: Repo front page for GitHub readers: what the wiki is, domain links, folder layout and skill workflow. `README.md`
 
 ---
 

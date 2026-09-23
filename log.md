@@ -18,6 +18,13 @@ page_type: log
 
 ---
 
+## [2026-09-23] manual | README.md
+Rewrote README as repo front page (plain Markdown links for GitHub); linked from [[Home]] and [[index]], resolving the lint orphan.
+
+## [2026-09-23] lint | Full wiki pass
+Summary: 0 broken links, 3 orphans (README + 2 system files), 0 stale entries, 1 missing connection, 3 date-field errors (same 3 files), 0 stale pages, 0 schema errors, 0 missing provenance/page_type fields, 0 orphaned assets.
+Report: archive/lint-2026-09-23.md
+
 ## [2026-09-22] ingest | Your AI Chief of Staff.md
 Created profile [[Dex - AI Chief of Staff]] (vendor claims); source to ingested/clippings/.
 
